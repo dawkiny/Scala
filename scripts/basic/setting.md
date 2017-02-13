@@ -29,7 +29,7 @@ There are 2 choices for the alternative java (providing /usr/bin/java).
 * Create an Scala Object
 * `ctrl` + `shift` + `X` to run selection in Scala Interpreter
 * Custom color syntax
-```
+
 ![eclipseScala](https://github.com/pydemia/Scala/blob/master/scripts/basic/eclipseScala.png)
 
 ```sc
